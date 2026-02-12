@@ -1,0 +1,7 @@
+{
+  "name": "MANS360 Lead Matching Platform",
+  "description": "An automated system to match institutional mental health service requests with certified therapists based on certification, specialization, language, and geographic proximity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
